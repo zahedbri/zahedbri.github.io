@@ -4,6 +4,6 @@ Everyone can visit and see our services
 Basically for abroad going students
 provides counseling to students.
 website for blogs: www.zaslinks.com
-Github site: github.zaslinks.com
-Facebook: zaslinks
-Github: zahedbri
+<br>Github site: github.zaslinks.com</br>
+<br>Facebook: zaslinks</br>
+<br>Github: zahedbri</br>
